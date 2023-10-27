@@ -1,6 +1,6 @@
 {
   "name": "card-flex",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "it's time to flex your name-card.",
   "main": "src/index.js",
   "bin": {

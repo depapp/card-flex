@@ -1,7 +1,7 @@
 {
   "name": "cardflex",
   "version": "1.0.0",
-  "description": "card-flex, a cardname generator.",
+  "description": "card-flex, a cli-based name-card generator.",
   "main": "bin/card.js",
   "bin": {
     
