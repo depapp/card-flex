@@ -1,0 +1,24 @@
+{
+  "name": "cardflex",
+  "version": "1.0.0",
+  "description": "card-flex, a cardname generator.",
+  "main": "bin/card.js",
+  "bin": {
+    
+  },
+  "scripts": {
+    "build": "node build.js",
+    "prepublish": "npm run build",
+    "dev": "npm run build && node ./bin/card.js"
+  },
+  "files": [
+    "bin/card.js",
+    "bin/output"
+  ],
+  "author": "@depapp",
+  "devDependencies": {
+    "boxen": "^5.0.0",
+    "chalk": "^4.1.0",
+    "standard": "^16.0.3"
+  }
+}
