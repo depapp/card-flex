@@ -16,6 +16,12 @@
     "bin/output"
   ],
   "author": "@depapp",
+  "keywords": [
+    "depapp",
+    "card-flex",
+    "depapp-card-flex",
+    "cianjur"
+  ],
   "devDependencies": {
     "boxen": "^5.0.0",
     "chalk": "^4.1.0",
