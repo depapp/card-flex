@@ -68,6 +68,8 @@ show me your-own card-flex by posting it on this [showcase your card](https://gi
 
 <a href="https://saweria.co/depapp" target="_blank"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/6134774/278801090-c4efd5c9-c0a7-43dc-9ea1-c21bc1a55203.png" width="20%" height="20%"></a>
 
+<a href="https://www.paypal.me/depapp" target="_blank"><img src="https://www.paypalobjects.com/digitalassets/c/website/marketing/apac/C2/logos-buttons/optimize/44_Yellow_PayPal_Pill_Button.png"></a>
+
 ---
 
 # :handshake: thanks to
