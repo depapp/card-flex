@@ -1,5 +1,8 @@
 # card-flex
-https://github.com/depapp/card-flex/assets/6134774/b2e6a840-4f04-45d5-a7e8-dfe25469c377
+
+|  |  |  |
+| -------- | -------- | -------- |
+| ![card-flex cli](https://github.com/depapp/card-flex/assets/6134774/57d7f0ec-9ecd-4aab-8bee-611fdbdd54b9) | ![card-flex cli](https://github.com/depapp/card-flex/assets/6134774/a9655755-4f07-41a5-8c2a-a7ced4bd9ce6) | ![card-flex card](https://github.com/depapp/card-flex/assets/6134774/dfba92fd-0974-468a-b896-548cd24f6ac7) |
 
 # :clipboard: description
 __card-flex__ is cli tools to generate cli-based name-card.
@@ -30,7 +33,7 @@ you should be able to see your own cli-based name-card locally
 ---
 
 ## public on "npmjs"
-next step we will make it public using [npmjs.com](https://www.npmjs.com), so people can access your cli-based name-card by using `npx <your-github-username>`.
+next step we will make it public using [npmjs.com](https://www.npmjs.com), so people can access your cli-based name-card by using `npx <your-github-username>`. \
 if don't have an account, you need to register it first to [npmjs.com](https://www.npmjs.com/signup), don't forget to `use your github username as npmjs username`
 - open your terminal and login to your `npmjs`
 ```bash
@@ -48,8 +51,15 @@ npm publish
 npx <your-github-username>
 ```
 
-# :busts_in_silhouette: contributors
-<a href="https://github.com/depapp/card-flex/graphs/contributors"><img src="https://contrib.rocks/image?repo=depapp/card-flex" alt="All the amazing contributors of card-flex"></a>
+---
+
+# :hammer_and_wrench: advance usage
+you can fully customize your own card, [click here to learn more](/ADVANCE_USAGE.md)
+
+---
+
+# :framed_picture: showcase
+show me your-own card-flex by posting it on this [showcase your card](https://github.com/depapp/card-flex/discussions/categories/showcase-your-card)
 
 ---
 
