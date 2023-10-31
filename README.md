@@ -12,7 +12,7 @@ __card-flex__ is cli tools to generate cli-based name-card.
 # :computer: how to setup
 ## on your local machine
 > [!NOTE]
-> VIDEO - [how to : setup card-flex locally](/HOW_TO_VIDEO.md#how-to--setup-card-flex-locally)
+> VIDEO - [how to : setup card-flex locally](https://github.com/depapp/card-flex/blob/main/HOW_TO_VIDEO.md#how-to--setup-card-flex-locally)
 
 before we get started, please note that you have to install `nodejs` including `npx` to run this cli-tools.
 - first, open your terminal and run the following command to initialize the project:
@@ -35,10 +35,10 @@ you should be able to see your own cli-based name-card locally
 ---
 ---
 > [!NOTE]
-> VIDEO - [how to : npm login](/HOW_TO_VIDEO.md#how-to--npm-login) \
-> VIDEO - [how to : npm publish](/HOW_TO_VIDEO.md#how-to--npm-publish) \
-> VIDEO - [how to : check the package on `npmjs.com`](/HOW_TO_VIDEO.md#how-to--check-the-package-on-npmjscom) \
-> VIDEO - [how to : access your card-flex public using `npx`](/HOW_TO_VIDEO.md#how-to--access-your-card-flex-public-using-npx)
+> VIDEO - [how to : npm login](https://github.com/depapp/card-flex/blob/main/HOW_TO_VIDEO.md#how-to--npm-login) \
+> VIDEO - [how to : npm publish](https://github.com/depapp/card-flex/blob/main/HOW_TO_VIDEO.md#how-to--npm-publish) \
+> VIDEO - [how to : check the package on `npmjs.com`](https://github.com/depapp/card-flex/blob/main/HOW_TO_VIDEO.md#how-to--check-the-package-on-npmjscom) \
+> VIDEO - [how to : access your card-flex public using `npx`](https://github.com/depapp/card-flex/blob/main/HOW_TO_VIDEO.md#how-to--access-your-card-flex-public-using-npx)
 ## public on "npmjs"
 next step we will make it public using [npmjs.com](https://www.npmjs.com), so people can access your cli-based name-card by using `npx <your-github-username>`. \
 if don't have an account, you need to register it first to [npmjs.com](https://www.npmjs.com/signup), don't forget to `use your github username as npmjs username`
