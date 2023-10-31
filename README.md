@@ -34,12 +34,14 @@ you should be able to see your own cli-based name-card locally
 
 ---
 ---
+
+## public on "npmjs"
 > [!NOTE]
 > VIDEO - [how to : npm login](https://github.com/depapp/card-flex/blob/main/HOW_TO_VIDEO.md#how-to--npm-login) \
 > VIDEO - [how to : npm publish](https://github.com/depapp/card-flex/blob/main/HOW_TO_VIDEO.md#how-to--npm-publish) \
 > VIDEO - [how to : check the package on `npmjs.com`](https://github.com/depapp/card-flex/blob/main/HOW_TO_VIDEO.md#how-to--check-the-package-on-npmjscom) \
 > VIDEO - [how to : access your card-flex public using `npx`](https://github.com/depapp/card-flex/blob/main/HOW_TO_VIDEO.md#how-to--access-your-card-flex-public-using-npx)
-## public on "npmjs"
+
 next step we will make it public using [npmjs.com](https://www.npmjs.com), so people can access your cli-based name-card by using `npx <your-github-username>`. \
 if don't have an account, you need to register it first to [npmjs.com](https://www.npmjs.com/signup), don't forget to `use your github username as npmjs username`
 - open your terminal and login to your `npmjs`
