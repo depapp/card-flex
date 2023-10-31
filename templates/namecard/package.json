@@ -26,5 +26,13 @@
     "boxen": "^5.0.0",
     "chalk": "^4.1.0",
     "standard": "^16.0.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/depapp/card-flex.git"
+  },
+  "bugs": {
+    "url": "https://github.com/depapp/card-flex/issues"
+  },
+  "homepage": "https://github.com/depapp/card-flex#readme"
 }

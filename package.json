@@ -1,6 +1,6 @@
 {
   "name": "card-flex",
-  "version": "2.2.2",
+  "version": "2.3.2",
   "description": "it's time to flex your name-card.",
   "main": "src/index.js",
   "bin": {
@@ -37,5 +37,13 @@
     "listr": "^0.14.3",
     "ncp": "^2.0.0",
     "pkg-install": "^1.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/depapp/card-flex.git"
+  },
+  "bugs": {
+    "url": "https://github.com/depapp/card-flex/issues"
+  },
+  "homepage": "https://github.com/depapp/card-flex#readme"
 }
